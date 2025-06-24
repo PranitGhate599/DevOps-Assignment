@@ -159,14 +159,13 @@ A 5-minute video demonstration has been recorded explaining:
 - How to build and run it
 - Sample requests and outputs
 
-> [Insert link if required by submission platform]
+> (https://drive.google.com/file/d/1okhP2eKpEbHuQULE9nEtIwZHF7L-SJJE/view?usp=sharing)
 
 ---
 
 ## 👤 Author
 
-**Pranit Ghate**  
-DevOps Internship Candidate  
+**Pranit Ghate**   
 GitHub: [@pranitghate599](https://github.com/pranitghate599)
 
 ---
